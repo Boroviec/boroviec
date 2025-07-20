@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. I am working on some personal projects. Let me know if you find them interesting and would like to incorporate in your life. 
 
 <!--
 **Boroviec/boroviec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
